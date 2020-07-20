@@ -1,3 +1,0 @@
-Sitemap: https://prss-io.github.io/demo-slate-theme/sitemap.xml
-User-agent:*
-Disallow:
